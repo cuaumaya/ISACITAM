@@ -593,7 +593,7 @@ with cR:
     st.markdown("<div class='card'><h3>Hallazgo central</h3>", unsafe_allow_html=True)
     st.markdown("""
     <p style="color:#e5e7eb;font-size:1.05rem">
-    “El valor en el fútbol no es una propiedad individual, sino una emergencia estadística del sistema.”
+    “El valor en el fútbol no es una propiedad individual, sino una convergencia estadística del sistema.”
     </p>
     <p style="color:#cbd5e1">La posesión y las \\
     interacciones contextuales (p.ej. Posesión×xGD) superan consistentemente
@@ -673,5 +673,6 @@ st.markdown("""
   <p style='color:#94a3b8;margin-top:6px;'>2025</p>
 </div>
 """, unsafe_allow_html=True)
+
 
 st.markdown("<div class='footer'>© 2025 ITAM - Inteligencia Táctica Cuantitativa · Datos: Hudl StatsBomb 360 | Liga MX 2021–2025</div>", unsafe_allow_html=True)
